@@ -210,7 +210,7 @@ http://rr.dens.tv/h/h91/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",ZEE BIOSKOP
 http://rr2.dens.tv/s/s32/01.m3u8
 
-#EXTINF:-1  group-title="Movies",HBO
+#EXTINF:-1 group-title="Movies",HBO
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/hbo_multi_bahasa.m3u8
 #EXTINF:-1 group-title="Movies",HBO FAMILY
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/hbo_family_multi_bahasa.m3u8
@@ -251,141 +251,141 @@ http://iptvtree.net:8080/test-220471/4008/157554
 #EXTINF:-1 group-title="Knowledge",Eat & Go
 http://iptvtree.net:8080/test-220471/4008/264765
 
-#EXTINF:-1  group-title="ASTRO",ASTRO VINMEENT
+#EXTINF:-1 group-title="ASTRO",ASTRO VINMEENT
 http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
-#EXTINF:-1  group-title="ASTRO",CHUAN CIA
+#EXTINF:-1 group-title="ASTRO",CHUAN CIA
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1  group-title="ASTRO",SONY MOVIES ACTION
+#EXTINF:-1 group-title="ASTRO",SONY MOVIES ACTION
 http://51.52.156.22:8888/http/009
-#EXTINF:-1  group-title="ASTRO",SHUANG XING
+#EXTINF:-1 group-title="ASTRO",SHUANG XING
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1  group-title="ASTRO",TVB 星河台
+#EXTINF:-1 group-title="ASTRO",TVB 星河台
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1  group-title="ASTRO",Okey
+#EXTINF:-1 group-title="ASTRO",Okey
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
-#EXTINF:-1  group-title="ASTRO",AEC
+#EXTINF:-1 group-title="ASTRO",AEC
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
-#EXTINF:-1  group-title="ASTRO",Warna
+#EXTINF:-1 group-title="ASTRO",Warna
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
-#EXTINF:-1  group-title="ASTRO",TV2
+#EXTINF:-1 group-title="ASTRO",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
-#EXTINF:-1  group-title="ASTRO",TV3
+#EXTINF:-1 group-title="ASTRO",TV3
 http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
-#EXTINF:-1  group-title="ASTRO",Rtb
+#EXTINF:-1 group-title="ASTRO",Rtb
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
-#EXTINF:-1  group-title="ASTRO",Prima
+#EXTINF:-1 group-title="ASTRO",Prima
 http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
-#EXTINF:-1  group-title="ASTRO",Ria
+#EXTINF:-1 group-title="ASTRO",Ria
 http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
-#EXTINF:-1  group-title="ASTRO",Awani
+#EXTINF:-1 group-title="ASTRO",Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
-#EXTINF:-1  group-title="ASTRO",ViuTv
+#EXTINF:-1 group-title="ASTRO",ViuTv
 http://61.238.6.49:8000/bysid/99
-#EXTINF:-1  group-title="ASTRO",Setanta
+#EXTINF:-1 group-title="ASTRO",Setanta
 http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1  group-title="ASTRO",AstroCeria
+#EXTINF:-1 group-title="ASTRO",AstroCeria
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
-#EXTINF:-1  group-title="ASTRO",Astro Awani
+#EXTINF:-1 group-title="ASTRO",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
-#EXTINF:-1  group-title="ASTRO",Astro Warna
+#EXTINF:-1 group-title="ASTRO",Astro Warna
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
-#EXTINF:-1  group-title="ASTRO",Astro - RIA
+#EXTINF:-1 group-title="ASTRO",Astro - RIA
 http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
-#EXTINF:-1  group-title="ASTRO",AstroCNA
+#EXTINF:-1 group-title="ASTRO",AstroCNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1  group-title="ASTRO",Astro Prima Backup
+#EXTINF:-1 group-title="ASTRO",Astro Prima Backup
 http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
-#EXTINF:-1  group-title="ASTRO",Astro Ria Backup
+#EXTINF:-1 group-title="ASTRO",Astro Ria Backup
 http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
-#EXTINF:-1  group-title="ASTRO",Astro Warna Backup
+#EXTINF:-1 group-title="ASTRO",Astro Warna Backup
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
-#EXTINF:-1  group-title="ASTRO",Astro Ceria Backup
+#EXTINF:-1 group-title="ASTRO",Astro Ceria Backup
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 
-#EXTINF:-1  group-title="ASTRO",Channel U(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",Channel U(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10003&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",SURIA(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",SURIA(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10004&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",Vasantham(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",Vasantham(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10005&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",CNA(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",CNA(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",TV OKEY(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",TV OKEY(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_58012&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",TV1(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",TV1(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_58001&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",TV2(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",TV2(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_58002&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",TV3(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",TV3(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_58003&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",NTV7(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",NTV7(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_58005&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",8TV(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",8TV(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_58006&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",TV9(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",TV9(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_58007&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",AEC(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",AEC(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_58025&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",AOD(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",AOD(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_882&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",TVB华丽(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",TVB华丽(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_884&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",全佳(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",全佳(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_885&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",爱奇艺(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",爱奇艺(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_886&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",双星(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",双星(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_58027&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",欢喜台(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",欢喜台(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_58026&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",小太阳(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",小太阳(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_58021&key=84797b799ae18d1b 
-#EXTINF:-1  group-title="ASTRO",ASSP 1(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",ASSP 1(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
-#EXTINF:-1  group-title="ASTRO",ASSP 2(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",ASSP 2(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
-#EXTINF:-1  group-title="ASTRO",ASSP 3(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",ASSP 3(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
-#EXTINF:-1  group-title="ASTRO",ASSP 4(setAuto/native)
+#EXTINF:-1 group-title="ASTRO",ASSP 4(setAuto/native)
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
 
-#EXTINF:-1  group-title="SPORT",Champions TV 1 _VIDIO
+#EXTINF:-1 group-title="SPORT",Champions TV 1 _VIDIO
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
-#EXTINF:-1  group-title="SPORT",Champions TV 2 _VIDIO
+#EXTINF:-1 group-title="SPORT",Champions TV 2 _VIDIO
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
-#EXTINF:-1  group-title="SPORT",Champions TV 3 _VIDIO
+#EXTINF:-1 group-title="SPORT",Champions TV 3 _VIDIO
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
-#EXTINF:-1  group-title="SPORT",BEIN 1
+#EXTINF:-1 group-title="SPORT",BEIN 1
 https://mediasv.online/live/bein1/playlist.m3u8
-#EXTINF:-1  group-title="SPORT",BEIN 2
+#EXTINF:-1 group-title="SPORT",BEIN 2
 https://mediasv.online/live/bein2/playlist.m3u8
-#EXTINF:-1  group-title="SPORT",Mola Sports Free
+#EXTINF:-1 group-title="SPORT",Mola Sports Free
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/variant.m3u8 
-#EXTINF:-1  group-title="SPORT",True Premier HD 1 
+#EXTINF:-1 group-title="SPORT",True Premier HD 1 
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8 
-#EXTINF:-1  group-title="SPORT",True Premier HD 2 
+#EXTINF:-1 group-title="SPORT",True Premier HD 2 
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8 
-#EXTINF:-1  group-title="SPORT",True Premier HD 3 
+#EXTINF:-1 group-title="SPORT",True Premier HD 3 
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8 
-#EXTINF:-1  group-title="SPORT",True Premier HD 4 
+#EXTINF:-1 group-title="SPORT",True Premier HD 4 
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8 
-#EXTINF:-1  group-title="SPORT",True Premier HD 5 
+#EXTINF:-1 group-title="SPORT",True Premier HD 5 
 http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1  group-title="SPORT",AstroSport 1
+#EXTINF:-1 group-title="SPORT",AstroSport 1
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1  group-title="SPORT",AstroSport 2
+#EXTINF:-1 group-title="SPORT",AstroSport 2
 http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1  group-title="SPORT",AstroSport 3
+#EXTINF:-1 group-title="SPORT",AstroSport 3
 http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1  group-title="SPORT",AstroSport 4
+#EXTINF:-1 group-title="SPORT",AstroSport 4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
-#EXTINF:-1  group-title="SPORT",FoxSport1
+#EXTINF:-1 group-title="SPORT",FoxSport1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="SPORT",FoxSport2
+#EXTINF:-1 group-title="SPORT",FoxSport2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="SPORT",FoxSport3
+#EXTINF:-1 group-title="SPORT",FoxSport3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1   group-title="SPORT",TrueSportHD1
